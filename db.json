@@ -1,5 +1,6 @@
 {
   "razoes": [
+    { "id": 0, "texto": "Você é aberta ao meu amor"}
     { "id": 1, "texto": "Você transmite segurança"},
     { "id": 2, "texto": "Você me traz paz"},
     { "id": 3, "texto": "Você é gentil"},
@@ -11,6 +12,5 @@
     { "id": 9, "texto": "Você é você"},
     { "id": 10, "texto": "Você me ensinou o amor"},
     { "id": 11, "texto": "Você é madura"},
-    { "id": 12, "texto": "Você é aberta ao meu amor"}
   ]
 }
