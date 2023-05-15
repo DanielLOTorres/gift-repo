@@ -1,9 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "pessoas": [
+    { "id": 1, "nome": "João", "idade": 25 },
+    { "id": 2, "nome": "Maria", "idade": 30 },
+    { "id": 3, "nome": "Pedro", "idade": 35 }
+  ]
 }
